@@ -19,5 +19,5 @@ It allows you to add tasks via text or voice, and hear them spoken back using of
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/VoiceTasker.git
+   git clone https://github.com/Pranali55/VoiceTasker.git
    cd VoiceTasker
